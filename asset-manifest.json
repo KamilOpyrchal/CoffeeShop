@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3159b850.css",
+    "main.js": "/static/js/main.bdc65232.js",
+    "static/js/787.91cac32e.chunk.js": "/static/js/787.91cac32e.chunk.js",
+    "static/media/4144.png": "/static/media/4144.eaf5139c3f294e079484.png",
+    "static/media/3320.png": "/static/media/3320.c4c6bcacba0148327836.png",
+    "static/media/4143.png": "/static/media/4143.8425e2341eae524dc199.png",
+    "static/media/Coffee.png": "/static/media/Coffee.02b922a5d4f3351e5f5f.png",
+    "static/media/324.png": "/static/media/324.0c69986135c61d546e63.png",
+    "static/media/4092.png": "/static/media/4092.df921084ec0150321892.png",
+    "static/media/RASPBERRIES.png": "/static/media/RASPBERRIES.2a538abc932b21fa087a.png",
+    "static/media/FOREST.png": "/static/media/FOREST.0dcff8752972246b1145.png",
+    "static/media/CINNAMON.png": "/static/media/CINNAMON.1ec373f04f7407442139.png",
+    "static/media/kawa-Tchibo-Espresso-Mailander-Art.png": "/static/media/kawa-Tchibo-Espresso-Mailander-Art.a64204a4efc76586cb73.png",
+    "static/media/kawa-jacobs-crema.png": "/static/media/kawa-jacobs-crema.fe0cddf123efaf7fab68.png",
+    "static/media/CHAMOMILE.png": "/static/media/CHAMOMILE.28f106d3ac68066595f4.png",
+    "static/media/kawa-tchibo-Cafe-Crema-Mild.png": "/static/media/kawa-tchibo-Cafe-Crema-Mild.fad557f181248a4e1d80.png",
+    "static/media/kawa-tchibo-black-n-white.png": "/static/media/kawa-tchibo-black-n-white.0a11fddaf21495ff34b3.png",
+    "index.html": "/index.html",
+    "main.3159b850.css.map": "/static/css/main.3159b850.css.map",
+    "main.bdc65232.js.map": "/static/js/main.bdc65232.js.map",
+    "787.91cac32e.chunk.js.map": "/static/js/787.91cac32e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3159b850.css",
+    "static/js/main.bdc65232.js"
+  ]
+}
